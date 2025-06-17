@@ -27,7 +27,7 @@ Denne appen er utviklet av seks studenter i forbindelse med emnet **IN2000** ved
    2. Naviger til området der du ønsker at prosjektet skal ligge.
    3. Gå til GitHub-siden for prosjektet og trykk på **"Code"**-knappen for å kopiere URL-en.
    4. Skriv `git clone <URL>` og lim inn den kopierte URL-en. For eksempel:  
-      `git clone https://github.uio.no/IN2000-V25/team-10.git`
+      `https://github.com/Martiwj/CellMate.git`
    5. Trykk **Enter** og vent til prosjektet er ferdig nedlastet.
    6. Åpne **Android Studio** og velg `Open` fra plasseringen til prosjektet.
    7. Når prosjektet er åpnet, trykk på **"Run"** (grønn pil) for å starte appen på en emulator eller tilkoblet enhet.
