@@ -9,7 +9,21 @@ Denne appen er utviklet av seks studenter i forbindelse med emnet **IN2000** ved
 - Beregne og vise estimert lønnsomhet, produksjonsverdi, strømproduksjon og solforhold for oppgitt adresse basert på værdata fra Frost.
 - Viser addresse i et interaktivt kart (Mapbox). 
 - Lagrer en addresse-profil med brukeroppgitt boliginformasjon og relevante værdata. 
-- Integrerer ulike API-er for å kunne gi relevant brukerinformasjon og detaljert statistikk. 
+- Integrerer ulike API-er for å kunne gi relevant brukerinformasjon og detaljert statistikk.
+
+## Skjermbilder
+
+| Kart | Brukerinndata | Statistikk |
+|------|----------------|------------|
+| ![Kartvisning](screenshots/map.png) | ![Brukerinndata](screenshots/userinp.png) | ![Statistikk](screenshots/stat.png) |
+
+| Investering | Verdi | Strøm|
+|-------------|-------|---------------|
+| ![Investering](screenshots/investment.png) | ![Verdi](screenshots/value.png) | ![Strøm](screenshots/electricity.png) |
+
+| Informasjon | Enova | Panelvalg |
+|-------------|--------|------------|
+| ![Info](screenshots/info.png) | ![Enova](screenshots/enova.png) | ![Paneler](screenshots/panels.png) |
 
 ## Hvordan kjøre appen
 
